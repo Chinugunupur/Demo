@@ -17,6 +17,6 @@ for txt1 in txt2:
         sri = s.group()
         s = sri.__contains__('LIC')
         if s == True:
-            pass
+            print(sri)
 
 
